@@ -18,7 +18,6 @@ Simple projects list created by CDK
 * [Tripled Experience](http://tripled-experience.com) - Photo kit for diamonds (Premium theme).
 * [LDC Italian Hotels](http://www.ldcitalianhotels.com) - few projects in one, with massive multilaguages, custom desgin (Bedrock, Sage, Support).
 * [Ed-Vantage](http://ed-vantage.co/) - Custom code project for startup(Bedrock).
-* [Medassis](http://medassis.org) - Web site for medical transport company (Divi, WPML)
 * [Chapel](http://dev.chapel.se) - Simple and clean project for clock concept selling, custom code (Woo)
 
 ### Web apps
@@ -27,23 +26,15 @@ Simple projects list created by CDK
 * [Shamir Imagine](http://imagine.shamir.com) - app with custom campaigns, video players, svg masks.
 
 ### Old projects
---  |  --
---- | ---
-www.mayer-boch.com         | www.roshpinacine.com
-www.aishtlv.com            | www.yehuda-adiri.co.il
-www.masorah.org            | www.burlington.co.il
-www.huliot.com             | www.neta-getfit.com
-www.jasminehouse.co.il     | www.studio-thermica.com
-www.zemeldesigns.co.il     | www.ilanaberman.com
-www.galilconsultant.com    | www.jd-schloss.com
-www.bazz.co                | www.arazimhotel.co.il
-www.icmg.co.il             | http://www.rop.co.il
-www.solcon.co.il           | www.ez-4u.co.il
-www.netaim-g.co.il         | www.monfort.co.il
-http://www.liatbaroz.co.il | www.dortal-nadlan.co.il
-www.ofirpr.co.il           | www.almi.co.il
-www.housein.co.il          | www.freestyle1.co.il
-
+--  |  -- | --  |  --
+--- | --- | --- | ---
+www.mayer-boch.com      | www.roshpinacine.com    | www.bazz.co         | www.arazimhotel.co.il
+www.aishtlv.com         | www.yehuda-adiri.co.il  | www.icmg.co.il      | www.rop.co.il
+www.masorah.org         | www.burlington.co.il    | www.solcon.co.il    | www.ez-4u.co.il
+www.huliot.com          | www.neta-getfit.com     | www.netaim-g.co.il  | www.monfort.co.il
+www.jasminehouse.co.il  | www.studio-thermica.com | www.liatbaroz.co.il | www.dortal-nadlan.co.il
+www.zemeldesigns.co.il  | www.ilanaberman.com     | www.ofirpr.co.il    | www.almi.co.il
+www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.freestyle1.co.il
 
 ### Landing pages
 * [Swim](https://lp.ti-swim.co.il/) - Additional styles for custom landings.
