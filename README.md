@@ -2,6 +2,9 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [lp for Brazil](http://lp.institutomindset.com.br) - divi based landing page
+* [lp for Italia](http://lp.jmenglish.it) - divi based landing page
+* [Pay App](https://pay.itscanadatime.com) - custom pay app
 * [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
 * [JMenglish](jmenglish.it) - English school in Italia
 * [Lazom](http://www.lazrom.com) - multilangual project with custom code (Bedrock, Sage, WPML).
@@ -43,5 +46,12 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 
 ### In Progress
 * Milkey
-* Doral
 * Adama
+* Terra green
+* Kamea
+* Diam
+* test prep - Burlington
+* studio bag
+* masorah
+* shviro
+* cinemall
