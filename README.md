@@ -2,6 +2,7 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
 * [JMenglish](jmenglish.it) - English school in Italia
 * [Lazom](http://www.lazrom.com) - multilangual project with custom code (Bedrock, Sage, WPML).
 * [PedraJewelry](http://pedrajewelry.co.il) - Custom code project with e-commerce features (Bedrock, Sage, WOO).
