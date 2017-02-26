@@ -2,8 +2,6 @@
 Simple projects list created by CDK
 
 ### Websites:
-* [lp for Brazil](http://lp.institutomindset.com.br) - divi based landing page
-* [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 * [Pay App](https://pay.itscanadatime.com) - custom pay app
 * [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
 * [JMenglish](jmenglish.it) - English school in Italia
@@ -15,7 +13,7 @@ Simple projects list created by CDK
 * [Diam Negoce](https://www.diam-negoce.com) - Simple project based on DIVI 3.0 theme with custom design and pixel perfect up to 95%
 * [Burlington Brazil](https://www.institutomindset.com.br) - One of few projects, with custom code, SEO optimization and more (Divi back framework).
 * [Loyds&Fischer](https://www.lloyds-and-fischer.com) - Special integration with finance crm (Rest/Web api).
-* [Equashield](http://www.equashield.com) - Medical project with product video presentation, custom code (Divi back framework).
+* [Equashield](http://www.equashield.com) - Medical project with product video presentation, custom code (Divi back framework). - Breeze Animation
 * [Behavioreal](http://www.behavioreal.com) - startup project on premium theme (TheFox).
 * [Medassis](http://medassis.org) - medical trasnportation project with few languages (Divi, WPML).
 * [Reforma-Eyewear](http://reforma-eyewear.com) - glasses shop - redesign(Redesigns).
@@ -25,9 +23,9 @@ Simple projects list created by CDK
 * [Chapel](http://dev.chapel.se) - Simple and clean project for clock concept selling, custom code (Woo)
 
 ### Web apps
-* [Otolase](http://otolase.breeze-animation.com/video-app/otolase/) - video app with custom navigation, gif preview, ipad support.
-* [Bermad](http://fp.bermadsolutions.com) - big app with video player, 360 3d models, few color versions - IR, FP, BC.
-* [Shamir Imagine](http://imagine.shamir.com) - app with custom campaigns, video players, svg masks.
+* [Otolase](http://otolase.breeze-animation.com/video-app/otolase/) - video app with custom navigation, gif preview, ipad support. - Breeze Animation
+* [Bermad](http://fp.bermadsolutions.com) - big app with video player, 360 3d models, few color versions - IR, FP, BC. - Breeze Animation
+* [Shamir Imagine](http://imagine.shamir.com) - app with custom campaigns, video players, svg masks. - Breeze Animation
 
 ### Old projects
 --  |  -- | --  |  --
@@ -43,6 +41,8 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 ### Landing pages
 * [Swim](https://lp.ti-swim.co.il/) - Additional styles for custom landings.
 * [Burlington](https://lp.burlingtonenglish.co.il/) - Landing page based DIVI 3.0 with custom design.
+* [lp for Brazil](http://lp.institutomindset.com.br) - divi based landing page
+* [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
 * Milkey
