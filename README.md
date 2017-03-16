@@ -5,7 +5,7 @@ Simple projects list created by CDK
 * [Milkey](https://www.milkey.co.ke/) - corporate website, custom code, optimize and secure (sage, bedrock, webpack)
 * [Pay App](https://pay.itscanadatime.com) - custom pay app
 * [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
-* [JMenglish](jmenglish.it) - English school in Italia
+* [JMenglish](https://www.jmenglish.it) - English school in Italia
 * [Lazom](http://www.lazrom.com) - multilangual project with custom code (Bedrock, Sage, WPML).
 * [PedraJewelry](http://pedrajewelry.co.il) - Custom code project with e-commerce features (Bedrock, Sage, WOO).
 * [Swi-pay](https://www.swi-pay.com) - Project for credit card company, custom code with external platform integration (Bedrock, Sage, Divi).
