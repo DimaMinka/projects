@@ -50,10 +50,15 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 
 ### In Progress
 * Terra green
-* Kamea
-* Diam
 * test prep - Burlington
 * studio bag
 * masorah
 * shviro
 * cinemall
+* its17
+* karuna
+* 3d dio
+* equashield
+* agalease 
+* naamanewman
+* icc
