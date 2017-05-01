@@ -2,6 +2,7 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [Adama](https://www.adamaltd.co.il) - rest web project, with modern design, custom code, seo optimization (sage, cdkrock, gulp)
 * [Milkey](https://www.milkey.co.ke/) - corporate website, custom code, optimize and secure (sage, bedrock, webpack)
 * [Pay App](https://pay.itscanadatime.com) - custom pay app
 * [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
@@ -46,7 +47,6 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
-* Adama
 * Terra green
 * Kamea
 * Diam
