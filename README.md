@@ -3,6 +3,7 @@ Simple projects list created by CDK
 
 ### Websites:
 * [Adama](https://www.adamaltd.co.il) - rest web project, with modern design, custom code, seo optimization (sage, cdkrock, gulp)
+* [KameaDance](https://www.kameadance.com) - custom design, custom code, seo optimization (sage, bedrock, wpml)
 * [Terra green](http://www.terragreenmed.com) - custom design, custom code, catalog (sage, bedcrock, wpml)
 * [Milkey](https://www.milkey.co.ke/) - corporate website, custom code, optimize and secure (sage, bedrock, webpack)
 * [Pay App](https://pay.itscanadatime.com) - custom pay app
