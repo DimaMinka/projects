@@ -2,7 +2,10 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [Sanplast](https://www.sanplast.co.il/) - plastic packaging products, simple design, custom OOP code, ultra fast. Google page speed 100/100, pingdom grade 98% (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
 * [Adama](https://www.adamaltd.co.il) - rest web project, with modern design, custom code, seo optimization (starter, cdkrock, gulp)
+* [Karuna](https://www.karuna.co.il) - ecommerce, woo, custom code, clean design, special integrations (bedrock, sage, cdk theme, laravel mix)
+* [Itscanadatime-2017](https://www.itscanadatime.com) - fast project, with modern blog, seo optimized(bedrock, sage, cdk theme, laravel mix, webpack)
 * [KameaDance](https://www.kameadance.com) - custom design, custom code, seo optimization (sage, bedrock, wpml)
 * [Terra green](http://www.terragreenmed.com) - custom design, custom code, catalog (sage, bedcrock, wpml)
 * [Milkey](https://www.milkey.co.ke/) - corporate website, custom code, optimize and secure (sage, bedrock, webpack)
