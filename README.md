@@ -7,7 +7,9 @@ Simple projects list created by CDK
 * [Karuna](https://www.karuna.co.il) - ecommerce, woo, custom code, clean design, special integrations (bedrock, sage, cdk theme, laravel mix)
 * [Itscanadatime-2017](https://www.itscanadatime.com) - fast project, with modern blog, seo optimized(bedrock, sage, cdk theme, laravel mix, webpack)
 * [KameaDance](https://www.kameadance.com) - custom design, custom code, seo optimization (sage, bedrock, wpml)
+* [NaamaNewman](https://www.naamanewman.co.il) - asp to wordpress, custom code, seo optimization (wpml, woo)
 * [Terra green](http://www.terragreenmed.com) - custom design, custom code, catalog (sage, bedcrock, wpml)
+* [BurlingtondDigital](http://www.burlingtondigital.com) - simple project based on premium theme, fast development
 * [Milkey](https://www.milkey.co.ke/) - corporate website, custom code, optimize and secure (sage, bedrock, webpack)
 * [Pay App](https://pay.itscanadatime.com) - custom pay app
 * [Doral energy](http://doral-energy.com) - multilangual project with custom code (Bedrock, sage, wpml)
@@ -28,6 +30,12 @@ Simple projects list created by CDK
 * [LDC Italian Hotels](http://www.ldcitalianhotels.com) - few projects in one, with massive multilaguages, custom desgin (Bedrock, Sage, Support).
 * [Ed-Vantage](http://ed-vantage.co/) - Custom code project for startup(Bedrock).
 * [Chapel](http://dev.chapel.se) - Simple and clean project for clock concept selling, custom code (Woo)
+
+### Our Clients
+--  |  -- | --  |  --
+--- | --- | --- | ---
+www.shviro.net            | www.iconductcloud.com       | www.cinemall.co.il         | www.tag.org.il
+www.diabetic.co.il        | www.breeze-animation.com    | www.peckale.com            | www.bookkeepers.org.il
 
 ### Web apps
 * [Otolase](http://otolase.breeze-animation.com/video-app/otolase/) - video app with custom navigation, gif preview, ipad support. - Breeze Animation
@@ -52,16 +60,7 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
-* Terra green
-* test prep - Burlington
-* studio bag
-* masorah
-* shviro
-* cinemall
-* its17
-* karuna
-* 3d dio
-* equashield
-* agalease 
-* naamanewman
-* icc
+* agalease - agl.agaleas-baby.co.il , agl-back.agaleas-baby.co.il
+* woo - www.beyadaim.com
+* brm project - master.burmr.xyz
+* nbr project - nbr.divi.co.il
