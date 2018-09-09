@@ -2,6 +2,11 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [Agaleas](https://www.agaleas-baby.co.il) - baby store with custom design, special optiomization, erp integration and more
+* [Chainbits](https://www.chainbits.com) - premium theme based project about coins news and more (workflow themosis)
+* [Beyadaim](https://www.beyadaim.com) - custom woocommerce project, modern workflow (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
+* [Prep](https://www.prep.co.il) - english courses
+* [Indan](http://ind.cdk.co.il) - building company project based Divi theme
 * [Sanplast](https://www.sanplast.co.il/) - plastic packaging products, simple design, custom OOP code, ultra fast. Google page speed 100/100, pingdom grade 98% (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
 * [Adama](https://www.adamaltd.co.il) - rest web project, with modern design, custom code, seo optimization (starter, cdkrock, gulp)
 * [Karuna](https://www.karuna.co.il) - ecommerce, woo, custom code, clean design, special integrations (bedrock, sage, cdk theme, laravel mix)
@@ -34,8 +39,10 @@ Simple projects list created by CDK
 ### Our Clients
 --  |  -- | --  |  --
 --- | --- | --- | ---
-www.shviro.net            | www.iconductcloud.com       | www.cinemall.co.il         | www.tag.org.il
-www.diabetic.co.il        | www.breeze-animation.com    | www.peckale.com            | www.bookkeepers.org.il
+www.shviro.net            | www.iconductcloud.com       | www.cinemall.co.il                | www.tag.org.il
+www.diabetic.co.il        | www.breeze-animation.com    | www.peckale.com                   | www.bookkeepers.org.il
+www.meepoboard.com        | www.grace-events.co.il      | www.plataine.com                  | www.qaviton.com
+www.indan-ltd.com         | www.afimilk.com             | podcasts.peaches-marketing.com    | www.cloudonix.io
 
 ### Web apps
 * [Otolase](http://otolase.breeze-animation.com/video-app/otolase/) - video app with custom navigation, gif preview, ipad support. - Breeze Animation
@@ -60,7 +67,8 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
-* agalease - agl.agaleas-baby.co.il , agl-back.agaleas-baby.co.il
-* woo - www.beyadaim.com
-* brm project - master.burmr.xyz
-* nbr project - nbr.divi.co.il
+* agalease
+* meepoboard.com
+* blf and bap projects - custom landing pages with special AFF integration
+* woman toys ecommerce project
+* burlington
