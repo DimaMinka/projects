@@ -2,7 +2,7 @@
 Simple projects list created by CDK
 
 ### Websites:
-* [Agaleas](https://www.agaleas-baby.co.il) - baby store with custom design, special optiomization, erp integration and more
+* [Agalease](https://www.agalease-baby.co.il) - baby store with custom design, special optiomization, erp integration and more
 * [Chainbits](https://www.chainbits.com) - premium theme based project about coins news and more (workflow themosis)
 * [Beyadaim](https://www.beyadaim.com) - custom woocommerce project, modern workflow (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
 * [Prep](https://www.prep.co.il) - english courses
