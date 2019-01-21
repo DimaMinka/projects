@@ -2,9 +2,16 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [MeepoBoard](https://www.meepoboard.com) - WordPress with Elementor, shopify integration, optimization.
+* [Nrgene](https://www.nrgene.com) - WordPress redesign and support - Elementor
 * [Agalease](https://www.agalease-baby.co.il) - baby store with custom design, special optiomization, erp integration and more
 * [Chainbits](https://www.chainbits.com) - premium theme based project about coins news and more (workflow themosis)
 * [Beyadaim](https://www.beyadaim.com) - custom woocommerce project, modern workflow (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
+* [Smartchoicecarpet-ny](https://www.smartchoicecarpet-ny.com) - Simple website with WordPress and Elementor
+
+* [Eitan Tours](https://eitan.tours) - WordPress and Elementor simple website
+* [Burlington Romania](https://www.burlingtonenglish.ro) - WordPress with cdk-rock, custom theme development, crm integration
+* [Qholdingcompany](https://qmd.qholdingcompany.com) - Simple landing page with WordPress and Elementor
 * [Prep](https://www.prep.co.il) - english courses
 * [Indan](http://ind.cdk.co.il) - building company project based Divi theme
 * [Sanplast](https://www.sanplast.co.il/) - plastic packaging products, simple design, custom OOP code, ultra fast. Google page speed 100/100, pingdom grade 98% (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
@@ -67,8 +74,11 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
-* agalease
-* meepoboard.com
-* blf and bap projects - custom landing pages with special AFF integration
-* woman toys ecommerce project
-* burlington
+* blf.host and bap.host projects - custom landing pages with special AFF integration
+* ubimo.host
+* sah.design
+* mgt.cdk.design
+* afm.cdk.design
+* aif.cdk.design
+* test.canadavisaservices.org
+* nw-b.site
