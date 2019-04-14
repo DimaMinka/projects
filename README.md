@@ -17,7 +17,6 @@ Simple projects list created by CDK
 * [Sanplast](https://www.sanplast.co.il/) - plastic packaging products, simple design, custom OOP code, ultra fast. Google page speed 100/100, pingdom grade 98% (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
 * [Adama](https://www.adamaltd.co.il) - rest web project, with modern design, custom code, seo optimization (starter, cdkrock, gulp)
 * [Karuna](https://www.karuna.co.il) - ecommerce, woo, custom code, clean design, special integrations (bedrock, sage, cdk theme, laravel mix)
-* [Itscanadatime-2017](https://www.itscanadatime.com) - fast project, with modern blog, seo optimized(bedrock, sage, cdk theme, laravel mix, webpack)
 * [KameaDance](https://www.kameadance.com) - custom design, custom code, seo optimization (sage, bedrock, wpml)
 * [NaamaNewman](https://www.naamanewman.co.il) - asp to wordpress, custom code, seo optimization (wpml, woo)
 * [Terra green](http://www.terragreenmed.com) - custom design, custom code, catalog (sage, bedcrock, wpml)
@@ -30,7 +29,6 @@ Simple projects list created by CDK
 * [PedraJewelry](http://pedrajewelry.co.il) - Custom code project with e-commerce features (Bedrock, Sage, WOO).
 * [Swi-pay](https://www.swi-pay.com) - Project for credit card company, custom code with external platform integration (Bedrock, Sage, Divi).
 * [JewishInteractive](http://jewishinteractive.org) - Premium theme with custom overriding (TheFox).
-* [Itscanadatime](https://www.itscanadatime.com) - Premium theme with custom overriding, crm integration, AB testign and more (Avada).
 * [Diam Negoce](https://www.diam-negoce.com) - Simple project based on DIVI 3.0 theme with custom design and pixel perfect up to 95%
 * [Burlington Brazil](https://www.institutomindset.com.br) - One of few projects, with custom code, SEO optimization and more (Divi back framework).
 * [Loyds&Fischer](https://www.lloyds-and-fischer.com) - Special integration with finance crm (Rest/Web api).
