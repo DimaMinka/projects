@@ -78,5 +78,4 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * mgt.cdk.design
 * afm.cdk.design
 * aif.cdk.design
-* test.canadavisaservices.org
 * nw-b.site
