@@ -2,13 +2,30 @@
 Simple projects list created by CDK
 
 ### Websites:
+* [Afimilk](https://www.afimilk.com) - WordPress with Elementor, comeet carriers integration, custom backend, svg animations.
+* [Nrgene](https://www.nrgene.com) - WordPress redesign and support - Elementor, tase api.
+* [Ubimo](https://www.ubimo.com) - WordPress design and support - Elementor.
+* [Plataine](https://www.plataine.com) - WordPress design and support - Elementor, servers, Pardot integration.
+* [Talenya](https://www.talenya.com) - WordPress design and support - Elementor, servers, chart integration.
+* [AgileSparks](https://he.agilesparks.com) - WordPress design and support - Elementor.
+* [AGL Tech](https://agl.tech) - WordPress support - Elementor.
+* [Beils](https://beils.com) - WordPress support - Elementor, servers, woocommerce, integration with crm.
+* [Hanita lenses](https://www.hanitalenses.com) - WordPress support, Elementor, servers.
+* [Road2](https://road2.co.il) - WordPress support, Elementor, servers.
+* [Boolzai](https://www.boolzai.co.il) - WordPress support - Elementor.
+* [Caliber](https://www.caliber.co.il) - WordPress support - Elementor.
+* [Onlinecarparts](https://onlinecarparts.co.il) - WordPress support, Elementor, Woocommercem, server.
+* [Netaplants](https://netaplants.co.il) - WordPress support, Elementor, Woocommercem, server.
+* [MGT](https://www.mgt.co.il) - WordPress support, Elementor, server, multisite.
+* [Lykke](https://lykke.co.il) - WordPress support, Elementor, Woocommercem, server.
+* [Akko](https://go-akko.com) - WordPress support - Elementor.
+* [BeijaFloor](https://beijaflorworld.com) - WordPress support - Woocommerce, elementor, integraion with priority.
+* [Arad](https://www.arad.co.il) - WordPress design and support - Elementor.
 * [MeepoBoard](https://www.meepoboard.com) - WordPress with Elementor, shopify integration, optimization.
-* [Nrgene](https://www.nrgene.com) - WordPress redesign and support - Elementor
 * [Agalease](https://www.agalease-baby.co.il) - baby store with custom design, special optiomization, erp integration and more
 * [Chainbits](https://www.chainbits.com) - premium theme based project about coins news and more (workflow themosis)
 * [Beyadaim](https://www.beyadaim.com) - custom woocommerce project, modern workflow (bedrock, cdk theme, webpack, carbon, sage basis, laravel mix)
 * [Smartchoicecarpet-ny](https://www.smartchoicecarpet-ny.com) - Simple website with WordPress and Elementor
-
 * [Eitan Tours](https://eitan.tours) - WordPress and Elementor simple website
 * [Burlington Romania](https://www.burlingtonenglish.ro) - WordPress with cdk-rock, custom theme development, crm integration
 * [Qholdingcompany](https://qmd.qholdingcompany.com) - Simple landing page with WordPress and Elementor
@@ -72,10 +89,4 @@ www.galilconsultant.com | www.jd-schloss.com      | www.housein.co.il   | www.fr
 * [lp for Italia](http://lp.jmenglish.it) - divi based landing page
 
 ### In Progress
-* blf.host and bap.host projects - custom landing pages with special AFF integration
-* ubimo.host
-* sah.design
-* mgt.cdk.design
-* afm.cdk.design
-* aif.cdk.design
-* nw-b.site
+* vbt.nw.mk
